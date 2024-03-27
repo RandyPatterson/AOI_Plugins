@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOI_Plugins", "AOI_Plugins\AOI_Plugins.csproj", "{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6283128F-82D6-4F88-BED1-8C2FAE5A5F85}
+	EndGlobalSection
+EndGlobal
