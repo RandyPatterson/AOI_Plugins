@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}|AOI_Plugins\\AOI_Plugins.csproj|c:\\users\\ranpat\\onedrive - microsoft\\projects\\aoi_plugins\\aoi_plugins\\plugins\\mytimeplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}|AOI_Plugins\\AOI_Plugins.csproj|solutionrelative:aoi_plugins\\plugins\\mytimeplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}|AOI_Plugins\\AOI_Plugins.csproj|c:\\users\\ranpat\\onedrive - microsoft\\projects\\aoi_plugins\\aoi_plugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CF30E1D-BDBA-4116-AF68-8745F5B89ABA}|AOI_Plugins\\AOI_Plugins.csproj|solutionrelative:aoi_plugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,20 +48,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AOI_Plugins",
+              "DocumentIndex": 0,
+              "Title": "MyTimePlugin.cs",
+              "DocumentMoniker": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\Plugins\\MyTimePlugin.cs",
+              "RelativeDocumentMoniker": "AOI_Plugins\\Plugins\\MyTimePlugin.cs",
+              "ToolTip": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\Plugins\\MyTimePlugin.cs",
+              "RelativeToolTip": "AOI_Plugins\\Plugins\\MyTimePlugin.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAzwBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:10:54.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AOI_Plugins.csproj",
               "DocumentMoniker": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\AOI_Plugins.csproj",
               "RelativeDocumentMoniker": "AOI_Plugins\\AOI_Plugins.csproj",
               "ToolTip": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\AOI_Plugins.csproj",
               "RelativeToolTip": "AOI_Plugins\\AOI_Plugins.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-26T19:49:18.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T19:49:18.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClientCore.cs",
               "DocumentMoniker": "C:\\Users\\ranpat\\AppData\\Local\\SourceServer\\0f8ca6a5b5d3eb95895e856ab4b565f44a2aa7390d69315b6ac50df492325e62\\dotnet\\src\\Connectors\\Connectors.OpenAI\\AzureSdk\\ClientCore.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\0f8ca6a5b5d3eb95895e856ab4b565f44a2aa7390d69315b6ac50df492325e62\\dotnet\\src\\Connectors\\Connectors.OpenAI\\AzureSdk\\ClientCore.cs",
@@ -65,12 +81,11 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\0f8ca6a5b5d3eb95895e856ab4b565f44a2aa7390d69315b6ac50df492325e62\\dotnet\\src\\Connectors\\Connectors.OpenAI\\AzureSdk\\ClientCore.cs",
               "ViewState": "AQIAALQBAAAAAAAAAIBPwAUEAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:19:03.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:19:03.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\ranpat\\AppData\\Roaming\\Microsoft\\UserSecrets\\bf6b7124-b8c5-4c12-9012-79614b54f99b\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bf6b7124-b8c5-4c12-9012-79614b54f99b\\secrets.json",
@@ -78,12 +93,11 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bf6b7124-b8c5-4c12-9012-79614b54f99b\\secrets.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-25T21:41:58.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:41:58.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\appsettings.json",
               "RelativeDocumentMoniker": "AOI_Plugins\\appsettings.json",
@@ -91,18 +105,17 @@
               "RelativeToolTip": "AOI_Plugins\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-25T21:36:57.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T21:36:57.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\Program.cs",
               "RelativeDocumentMoniker": "AOI_Plugins\\Program.cs",
               "ToolTip": "C:\\Users\\ranpat\\OneDrive - Microsoft\\Projects\\AOI_Plugins\\AOI_Plugins\\Program.cs",
               "RelativeToolTip": "AOI_Plugins\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T21:35:27.977Z",
               "EditorCaption": ""

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AOI_Plugins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552976667d7370892bab0afb6d230d21794a00f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AOI_Plugins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AOI_Plugins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

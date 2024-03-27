@@ -34,7 +34,8 @@ namespace AOI_Plugins
                 config["AOI_API_KEY"]!);
 
             #pragma warning disable SKEXP0050 // Type is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
-            builder.Plugins.AddFromType<TimePlugin>();
+            //builder.Plugins.AddFromType<TimePlugin>();
+            builder.Plugins.AddFromType<MyTimePlugin>();
 
 
             // Build the kernel
